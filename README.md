@@ -1,8 +1,10 @@
+<div align="center">
+  
 # 💫 About Me:
 Passionate about mastering DSA and building in the AWS cloud, diving into AI/ML, and coding with Python, C, C++ & Javascript. I'm always learning and creating.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1034102702046711818) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samuel-srujan-b-871955251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwGtFueSkR02sh14cJLScTw%3D%3D) 
 
 # 💻 Tech Stack:
@@ -19,3 +21,4 @@ Passionate about mastering DSA and building in the AWS cloud, diving into AI/ML,
 [![](https://visitcount.itsvg.in/api?id=Samuel-0316&icon=5&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
